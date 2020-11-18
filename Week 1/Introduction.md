@@ -40,7 +40,7 @@ We could turn this example into a classification problem by instead making our o
 <li><b>Classification:</b> Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.</li>
 </ol>
 
-## **SUPERVISED LEARNING**
+## **UNSUPERVISED LEARNING**
 
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can **derive structure from data where we don't necessarily know the effect of the variables.**
 
